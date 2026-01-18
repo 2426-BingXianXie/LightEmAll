@@ -2,29 +2,6 @@
 
 An interactive puzzle game where players connect electrical circuits by rotating tiles to power all nodes on a dynamically generated board. Built with Java using advanced algorithms including Kruskal's Minimum Spanning Tree and Breadth-First Search for optimal gameplay experience.
 
-**Author**: BingXian Xie  
-**Course**: CS2510 - Fundamentals of Computer Science II  
-**Institution**: Northeastern University  
-**Semester**: Spring 2025
-
----
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Game Mechanics](#game-mechanics)
-- [Technology Stack](#technology-stack)
-- [System Architecture](#system-architecture)
-- [Installation & Setup](#installation--setup)
-- [How to Play](#how-to-play)
-- [Implementation Details](#implementation-details)
-- [Key Algorithms](#key-algorithms)
-- [Testing](#testing)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Screenshots](#screenshots)
-- [Academic Integrity](#academic-integrity)
-- [Contact](#contact)
-
 ---
 
 ## Overview
